@@ -367,3 +367,17 @@ footer p{
     transform:translateY(0);
 
 }
+
+footer img{
+
+    width:100px;
+
+    margin-bottom:20px;
+
+    filter:none;
+
+    box-shadow:none;
+
+    border-radius:12px;
+
+}
